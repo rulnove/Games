@@ -1,0 +1,11 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="13">
+            <File firstVisibleLine="2976" xOffset="0" scrollWidth="592" startPos="101271" endPos="101271" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Admin\Pictures\react.development.js" backupFilePath="" originalFileLastModifTimestamp="-934665651" originalFileLastModifTimestampHigh="30834140" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1139802112" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="19919" xOffset="0" scrollWidth="2304" startPos="753277" endPos="753277" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Admin\Pictures\react-dom.development.js" backupFilePath="" originalFileLastModifTimestamp="-657159778" originalFileLastModifTimestampHigh="30834140" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="6488169" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="262400" startPos="32802" endPos="32802" selMode="0" lang="JavaScript" encoding="-1" filename="C:\Users\Admin\Pictures\styled-components.min.js" backupFilePath="" originalFileLastModifTimestamp="-258746990" originalFileLastModifTimestampHigh="30834140" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="117901063" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="101" xOffset="0" scrollWidth="808" startPos="12405" endPos="12405" selMode="0" lang="R" encoding="-1" filename="C:\Users\Admin\Pictures\index.s" backupFilePath="" originalFileLastModifTimestamp="166807339" originalFileLastModifTimestampHigh="30834141" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="6881394" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
